@@ -1,0 +1,42 @@
+.animal {
+text-align: center;
+  border: 5px dashed blue;
+  padding: 20px;
+  width: 350px;
+  border-radius: 10%;
+  margin: 10px;
+  background-color: #b4b7a5;
+}
+
+.animal p {
+  font-weight: bold;
+  color: #444444;
+}
+
+
+.center{
+  margin: auto;
+  width: 30%;
+}
+
+.animal img{
+  width: 350px;
+}
+
+.about {
+  float: left;
+  width: 200px;
+  border: 3px solid grey;
+  margin-top: 60px;
+  margin-left: 20px;
+  padding: 5px;
+}
+
+.about p, h3, address, a {
+  text-align: center;
+  text-decoration: none;
+}
+
+h1{
+
+}
